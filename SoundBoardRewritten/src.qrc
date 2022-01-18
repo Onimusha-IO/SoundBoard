@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/add.png</file>
+        <file>icons/closeAll.png</file>
+        <file>icons/diamond.png</file>
+        <file>icons/minus.png</file>
+        <file>icons/play.png</file>
+        <file>icons/scene.png</file>
+        <file>icons/settings.png</file>
+        <file>icons/speaker.png</file>
+        <file>icons/stop.png</file>
+        <file>icons/stopAll.png</file>
+        <file>images/Scene.jpg</file>
+        <file>images/Tabletop Soundboard 1080p.jpg</file>
+    </qresource>
+</RCC>
